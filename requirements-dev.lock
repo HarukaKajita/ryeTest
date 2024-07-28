@@ -10,3 +10,5 @@
 #   universal: false
 
 -e file:.
+u-msgpack-python==2.8.0
+    # via ryetest
